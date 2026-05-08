@@ -1,0 +1,3 @@
+Model saved to: /content/drive/My Drive/Cancer Prediction/Model_Outputs/cnn_cancer_prediction_model.keras
+Accuracy plot saved to: /content/drive/My Drive/Cancer Prediction/Model_Outputs/accuracy_plot.png
+Loss plot saved to: /content/drive/My Drive/Cancer Prediction/Model_Outputs/loss_plot.png

@@ -1,0 +1,5 @@
+Found 5600 images belonging to 4 classes.
+Found 1600 images belonging to 4 classes.
+Found 4 classes: {'glioma': 0, 'meningioma': 1, 'notumor': 2, 'pituitary': 3}
+Number of training samples: 5600
+Number of testing samples: 1600
