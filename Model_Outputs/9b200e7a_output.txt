@@ -1,0 +1,11 @@
+Contents of training folder '/content/drive/My Drive/Cancer Prediction/MRI SCAN DATASET/Training':
+notumor
+meningioma
+pituitary
+glioma
+
+Contents of testing folder '/content/drive/My Drive/Cancer Prediction/MRI SCANSET/Testing':
+meningioma
+pituitary
+glioma
+notumor
