@@ -1,3 +1,0 @@
-[1m50/50[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m64s[0m 1s/step - accuracy: 0.6994 - loss: 1.0114
-Test Loss: 1.0114
-Test Accuracy: 0.6994
